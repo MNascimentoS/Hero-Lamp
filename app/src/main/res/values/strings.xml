@@ -1,6 +1,0 @@
-<resources>
-    <!-- app name-->
-    <string name="app_name">Hero Lamp</string>
-    <!--activity main -->
-    <string name="error_message_flash">O seu dispositivo não possui suporte para flash :(</string>
-</resources>
