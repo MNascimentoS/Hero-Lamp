@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- toobar color -->
-    <color name="colorPrimary">#b0bec5</color>
-    <color name="colorPrimaryDark">#607d8b</color>
+    <!-- toolbar color -->
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#E53935</color>
     <color name="colorAccent">#FF4081</color>
     <!-- Background colors-->
-    <color name="colorDefault">#78909c</color>
+    <color name="colorDefault">#F44336</color>
+    <!--Weapons colors -->
+    <color name="colorSword">#F44336</color>
+    <color name="colorStaff">#2196F3</color>
+    <color name="colorHammer">#795548</color>
+    <color name="colorBow">#4CAF50</color>
+    <color name="colorAxe">#607D8B</color>
     <!-- Hero icon colors-->
     <color name="colorHulk">#009688</color>
     <color name="colorIron">#b71c1c</color>

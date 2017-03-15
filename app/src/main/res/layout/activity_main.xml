@@ -1,77 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.widget.RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:id="@+id/mainActivityLayout"
     android:background="@color/colorDefault"
     android:layout_height="match_parent"
     tools:context="br.com.spacerkt.herolamp.MainActivity">
-    <!--lamp switch button-->
-    <ImageButton
+    <!--image theme-->
+    <ImageView
         android:id="@+id/imgbLampSwitch"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:src="@drawable/lamp_switch_on"
+        android:src="@drawable/ic_sword"
         android:background="@null"
         android:contentDescription="@null"/>
 
-    <!--hulk image button-->
+    <!--sword theme button-->
     <ImageButton
-        android:id="@+id/imgbHulk"
+        android:id="@+id/imgbSwordTheme"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/ic_hulk_off"
+        android:src="@drawable/ic_lamp_on"
         android:background="@null"
-        android:layout_marginTop="150dp"
         android:contentDescription="@null"
-        android:layout_below="@+id/imgbLampSwitch"
-        android:layout_toLeftOf="@+id/imgbLampSwitch"
-        android:paddingLeft="12dp"
+        android:layout_alignStart="@+id/imgbLampSwitch"
+        android:layout_alignLeft="@+id/imgbLampSwitch"
         />
 
+    <!--hulk image button-->
+
     <!--iron-man image button-->
-    <ImageButton
-        android:id="@+id/imgbIron"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/ic_iron_off"
-        android:background="@null"
-        android:contentDescription="@null"
-        android:layout_alignTop="@+id/imgbHulk"
-        android:layout_toRightOf="@+id/imgbHulk"
-        android:layout_toEndOf="@+id/imgbHulk"
-        android:layout_marginLeft="8dp"
-        android:layout_marginStart="8dp" />
 
     <!--captain america image button-->
-    <ImageButton
-        android:id="@+id/imgbCaptain"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/ic_captain_off"
-        android:background="@null"
-        android:contentDescription="@null"
-        android:layout_alignTop="@+id/imgbHulk"
-        android:layout_toRightOf="@+id/imgbIron"
-        android:layout_toEndOf="@+id/imgbIron"
-        android:layout_marginLeft="8dp"
-        android:layout_marginStart="8dp" />
 
     <!--thor image button-->
-    <ImageButton
-        android:id="@+id/imgbThor"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/ic_thor_off"
-        android:background="@null"
-        android:contentDescription="@null"
-        android:layout_alignTop="@+id/imgbHulk"
-        android:layout_toRightOf="@+id/imgbCaptain"
-        android:layout_toEndOf="@+id/imgbCaptain"
-        android:layout_marginLeft="8dp"
-        android:layout_marginStart="8dp" />
 
 
 </android.widget.RelativeLayout>
