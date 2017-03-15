@@ -3,129 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/home/junior/AndroidStudioProjects/HeroLamp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/home/junior/AndroidStudioProjects/Hero-Lamp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="/home/junior/AndroidStudioProjects/HeroLamp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fbcb3b6e50d8e6ed99e39e0ea5f729ffae3d1a3c/classes.dex" />
+        <dex dex="/home/junior/AndroidStudioProjects/Hero-Lamp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_caf5766e12de3af5bae67d79b8efe0530b86aa0b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/junior/.android/build-cache/858805f4768b84f25c7dc2176aabfe77fe136ba5/output/jars/classes.jar"
+        jar="/home/junior/AndroidStudioProjects/Hero-Lamp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="/home/junior/AndroidStudioProjects/HeroLamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0feb5279162739528ab36d8b8aa743d1bb3f972/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/junior/.android/build-cache/2da543003959ee0a47d0cc32f2acd60ae9fcda86/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="/home/junior/AndroidStudioProjects/HeroLamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c766b565d389302d89eddca35c21acb0e20ef762/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/junior/.android/build-cache/f14ec51c9a030f893789a4cdc4d47c855ed87eab/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="/home/junior/AndroidStudioProjects/HeroLamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbb5effaeadc62c779e9b269df897b05fff76cc0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/junior/.android/build-cache/fd48132a44b6f12c05a79fa9dc0f81ba5688647e/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7113302c965566b66df46c6ca75ea301576114a5">
-        <dex dex="/home/junior/AndroidStudioProjects/HeroLamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c627dc191abf9112c73f7b83a43c3964b63dc711/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/junior/.android/build-cache/f05c12d17f87a8d3917127ed08c16c77aafd4883/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="/home/junior/AndroidStudioProjects/HeroLamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbb48d6e2b74987c9b8d08c2876064aaa2ad7f16/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/junior/.android/build-cache/559c7816c151941183fd2d2e42849fc1c2c1a304/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
-        <dex dex="/home/junior/AndroidStudioProjects/HeroLamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0aa4c45af92d5ffd72e92fc83f10e351ffc3cdce/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/junior/AndroidStudioProjects/HeroLamp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0c522280e3e1b2123d93f8bb3c7f8df9edf71cb1">
-        <dex dex="/home/junior/AndroidStudioProjects/HeroLamp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e3de37024a2d69ae18afdce4938b49dee6f3a537/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/junior/.android/build-cache/728d359efc0246e448f9a07d682f0a9a0ecf8329/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/junior/AndroidStudioProjects/HeroLamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9edf7845bf31bc195d37e872902a55487d29b6d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/junior/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
-        <dex dex="/home/junior/AndroidStudioProjects/HeroLamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.1_de98c7863d939a0c3716b77a6e0c13e5aa34c82a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/junior/.android/build-cache/157ccc0fb65cce7f9492677c86244fbfeb499a81/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="/home/junior/AndroidStudioProjects/HeroLamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c5e66ae32bdca51b00dad6bcd2cfe3036555181/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/junior/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
-        <dex dex="/home/junior/AndroidStudioProjects/HeroLamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_b11403128bbb74237289ef8fac9baac840af34e2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/junior/.android/build-cache/6a9688661680b5304dc4e2ae78dd8b6cb69c2176/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="/home/junior/AndroidStudioProjects/HeroLamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69e30da4aee405993d34327a63b9991723437050/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/junior/.android/build-cache/219565b787472d36c8c85d126e9951618b064813/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="/home/junior/AndroidStudioProjects/HeroLamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c1b9a00e56d5f0d98f5f1670fc7d159aacc2628/classes.dex" />
+        sha1="496b6612b3d80ea1b9fbab8b477f0fd6f3605ec3">
+        <dex dex="/home/junior/AndroidStudioProjects/Hero-Lamp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7e379503e038928eab79c59b3d39d0daffbbf79f/classes.dex" />
     </item>
 
 </items>
